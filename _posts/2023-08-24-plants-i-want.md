@@ -14,6 +14,7 @@ date: 2023-08-24
 - Viola spp. - larval host for fritillaries (overwinter at base of plant)
 - Clover (Trifolium spp.) - larval host for Clouded Sulphur, Eastern Tailed-Blue, Gray Hairstreak
 - Pussytoes (Antennaria plantaginifolia) - larval host for American Lady
+- Eastern Prickly Pear (Opuntia humifusa)
 - Bloodroot (Sanguinaria canadensis)
 - Virginia bluebells (Mertensia virginica)
 - Yellow Bellwort (Uvularia grandiflora)
@@ -24,7 +25,7 @@ date: 2023-08-24
 - Tropaeolum majus (common nasturtium) - larval host for Cabbage White
 - Tomato
 - Cucumber
-- Herbs
+- Herbs - Rosemary, Lemonggrass, Thyme, Sage, Parsley, Chives, Oregano, Tarragon
 - Beans
 - Radishes
 - Arugula

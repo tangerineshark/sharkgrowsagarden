@@ -1,5 +1,5 @@
 ---
-title: "plants-i-have"
+title: "Plants I Have"
 date: 2023-08-24
 ---
 

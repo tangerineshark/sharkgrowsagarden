@@ -27,22 +27,25 @@ date: 2023-08-24
 - Astilbe 'Montgomery' (Astilbe japonica)
 - Astilbe 'Fanal Red' (Astilbe x arendsii)
 - Ligularia dentata
-- Phlox
+- Coral and Fuschia Phlox (Phlox spp.)
+- Creeping Phlox / Moss Phlox (Phlox subulata)
 - Alliums
-- Coreopsis - Jethro Tull cultivar
-- Stringy Stonecrop
-- Daylily
-- Lungwort
-- Irish Moss
-- Scotch Moss
-- Wooly Thyme
-- Hen and Chickens
-- Brass Buttons
-- Sweet Woodruff
-- That one grouncover that theoretically gets pink flowers, maybe creeping phlox? Moss Phlox?
+- Coreopsis 'Jethro Tull'
+- Stringy Stonecrop (Sedum sarmentosum)
+- Red Daylily (Hemerocallis spp.)
+- Lungwort (Pulmonaria spp.)
+- Irish Moss (Sagina subulata)
+- Scotch Moss (Arenaria verna)
+- Wooly Thyme (Thymus pseudolanuginosus)
+- Hen and Chicks (Sempervivum tectorum)
+- Brass Buttons (Leptinella squalida, formerly known as Cotula squalida)
+- Sweet Woodruff / Sweet-Scented Bedstraw (Galium odoratum)
 - Korean Burnet (Sanguisorba hakusanensis ‘Lilac Squirrel’)
 - Black Mondo Grass (Ophiopogon planiscapus 'Nigrescens')
 - Ajuga (multiple?)
 - Rudbeckia - a different one, might be a non-native cultivar
 - Ginger mint
 - Mojito mint
+- Rhubarb
+- Horseradish
+

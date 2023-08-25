@@ -9,8 +9,8 @@ date: 2023-08-24
 - Small Yellow Wild Indigo (Baptisia tinctoria)
 - Wild Bergamot (Monarda fistulosa)
 - Ohio Spiderwort (Tradescantia ohiensis)
-- Great Blue Lobelia 
-- Cardinal Flower
+- Great Blue Lobelia (Lobelia siphilitica)
+- Cardinal Flower (Lobelia cardinalis)
 - Brown-Eyed Susan (Rudbeckia triloba) …could also be Rudbeckia subtomentosa
 - Marsh Marigold (Caltha palustris)
 - Columbine (Aquilegia canadensis) - self-propagating
@@ -24,7 +24,8 @@ date: 2023-08-24
 # Plants I Have (Non-native)
 - Hardy Hibiscus (Hibiscus moscheutos) - some fancy bright red cultivar
 - Ferns, unknown
-- Astilbe
+- Astilbe 'Montgomery' (Astilbe japonica)
+- Astilbe 'Fanal Red' (Astilbe x arendsii)
 - Ligularia dentata
 - Phlox
 - Alliums

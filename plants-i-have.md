@@ -18,6 +18,9 @@
 - Solomon’s Seal (Polygonatum commutatum)
 - Wild Ginger (Asarum canadense)
 - Trumpet Vine (Campsis radicans) - at least close to native, if not quite
+- Blue-Stemmed Goldenrod (Solidago caesia) - goldenrods are host plant for more things than anything else in Chicago
+- Leatherleaf Woodfern (Dryopteris marginalis)
+- Fancy Fern (Dryopteris intermedia)
 
 # Plants I Have (Non-native)
 - Hardy Hibiscus (Hibiscus moscheutos) - some fancy bright red cultivar

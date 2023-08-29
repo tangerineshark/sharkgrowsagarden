@@ -45,11 +45,12 @@
 - Hen and Chicks (Sempervivum tectorum)
 - Brass Buttons (Leptinella squalida, formerly known as Cotula squalida)
 - Sweet Woodruff / Sweet-Scented Bedstraw (Galium odoratum)
+- Hedge Bedstraw (Galium mollugo)
 - Korean Burnet (Sanguisorba hakusanensis ‘Lilac Squirrel’)
 - Black Mondo Grass (Ophiopogon planiscapus 'Nigrescens')
-- Ajuga (multiple?)
-- That purple thing that grows everywhere
-- Ginger mint
-- Mojito mint
-- Rhubarb
-- Horseradish
+- Bugleweed (Ajuga reptans)
+- Deadnettles (Lamium spp., maybe maculatum)
+- Ginger mint (Mentha X Gracilis)
+- Mojito mint (Mentha x villosa)
+- Rhubarb (Rheum rhabarbarum 'Crimson Red')
+- Horseradish (Armoracia rusticana)

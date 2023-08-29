@@ -5,7 +5,6 @@
 - Royal Catchfly (Silene regia) - red, beautiful, good for butterflies and humbos
 - Golden Alexanders (Zizia aurea) - good for shade, larval host for Black Swallowtail
 - Wild Lupine (Lupinus perennis) - only host plant for Karner Blue
-- Blue-Stemmed Goldenrod (Solidago caesia) - host plant for tons of stuff
 - Viola spp. - larval host for fritillaries (overwinter at base of plant)
 - Clover (Trifolium spp.) - larval host for Clouded Sulphur, Eastern Tailed-Blue, Gray Hairstreak
 - Pussytoes (Antennaria plantaginifolia) - larval host for American Lady
@@ -25,3 +24,5 @@
 - Radishes
 - Arugula
 - Peppers
+- Bok Choi / Pak Choi / Tatsoi
+- Mizuna

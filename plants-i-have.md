@@ -1,12 +1,14 @@
 # Plants I Have (Native)
 - Lead Plant (Amorpha canescens) - larval host for Dog Face Sulphur
 - Swamp Milkweed (Asclepias incarnata) - larval host for Monarch
+- Crested Wood Fern (Dryopteris cristata)
 - Small Yellow Wild Indigo (Baptisia tinctoria)
 - Wild Bergamot (Monarda fistulosa)
-- Ohio Spiderwort (Tradescantia ohiensis)
+- Zwandenburg Blue Spiderwort (Tradescantia virginiana)
 - Great Blue Lobelia (Lobelia siphilitica)
 - Cardinal Flower (Lobelia cardinalis)
 - Brown-Eyed Susan (Rudbeckia triloba) …could also be Rudbeckia subtomentosa
+- Black-Eyed Susan (Rudbeckia triloba 'Prairie Glow' - listed as "native cultivar")
 - Marsh Marigold (Caltha palustris)
 - Columbine (Aquilegia canadensis) - self-propagating
 - Common Blue Violet (Viola sororia) - self-propagating
@@ -15,31 +17,40 @@
 - Prairie Trillium (Trillium recurvatum)
 - Solomon’s Seal (Polygonatum commutatum)
 - Wild Ginger (Asarum canadense)
+- Trumpet Vine (Campsis radicans) - at least close to native, if not quite
+- Blue-Stemmed Goldenrod (Solidago caesia) - goldenrods are host plant for more things than anything else in Chicago
+- Leatherleaf Woodfern (Dryopteris marginalis)
+- Fancy Fern (Dryopteris intermedia)
 
 # Plants I Have (Non-native)
 - Hardy Hibiscus (Hibiscus moscheutos) - some fancy bright red cultivar
-- Ferns, unknown
+- Fern, unknown
 - Astilbe 'Montgomery' (Astilbe japonica)
 - Astilbe 'Fanal Red' (Astilbe x arendsii)
-- Ligularia dentata
-- Coral and Fuschia Phlox (Phlox spp.)
+- Bigleaf Goldenray Othello (Ligularia dentata 'Othello')
+- Coral Creme Drop Garden Phlox (Phlox spp.)
+- Red Riding Hood Garden Phlox (Phlox paniculata)
 - Creeping Phlox / Moss Phlox (Phlox subulata)
 - Alliums
-- Coreopsis 'Jethro Tull'
+- Coreopsis Hybrid 'Jethro Tull'
 - Stringy Stonecrop (Sedum sarmentosum)
 - Red Daylily (Hemerocallis spp.)
+- Stella D'Oro Daylily (Hemerocallis 'Stella d'Oro')
 - Lungwort (Pulmonaria spp.)
+- White Flowered Dwarf Crested Iris (Iris cristata 'alba')
+- Other Dwarf Irises
 - Irish Moss (Sagina subulata)
 - Scotch Moss (Arenaria verna)
 - Wooly Thyme (Thymus pseudolanuginosus)
 - Hen and Chicks (Sempervivum tectorum)
 - Brass Buttons (Leptinella squalida, formerly known as Cotula squalida)
 - Sweet Woodruff / Sweet-Scented Bedstraw (Galium odoratum)
+- Hedge Bedstraw (Galium mollugo)
 - Korean Burnet (Sanguisorba hakusanensis ‘Lilac Squirrel’)
 - Black Mondo Grass (Ophiopogon planiscapus 'Nigrescens')
-- Ajuga (multiple?)
-- Rudbeckia - a different one, might be a non-native cultivar
-- Ginger mint
-- Mojito mint
-- Rhubarb
-- Horseradish
+- Bugleweed (Ajuga reptans)
+- Deadnettles (Lamium spp., maybe maculatum)
+- Ginger mint (Mentha X Gracilis)
+- Mojito mint (Mentha x villosa)
+- Rhubarb (Rheum rhabarbarum 'Crimson Red')
+- Horseradish (Armoracia rusticana)

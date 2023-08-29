@@ -24,3 +24,5 @@
 - Radishes
 - Arugula
 - Peppers
+- Bok Choi / Pak Choi / Tatsoi
+- Mizuna

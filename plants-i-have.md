@@ -32,7 +32,6 @@
 - Red Riding Hood Garden Phlox (Phlox paniculata)
 - Creeping Phlox / Moss Phlox (Phlox subulata)
 - Alliums
-- Coreopsis Hybrid 'Jethro Tull'
 - Stringy Stonecrop (Sedum sarmentosum)
 - Red Daylily (Hemerocallis spp.)
 - Stella D'Oro Daylily (Hemerocallis 'Stella d'Oro')

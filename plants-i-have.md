@@ -7,7 +7,7 @@
 - Zwandenburg Blue Spiderwort (Tradescantia virginiana)
 - Great Blue Lobelia (Lobelia siphilitica)
 - Cardinal Flower (Lobelia cardinalis)
-- Brown-Eyed Susan (Rudbeckia triloba) …could also be Rudbeckia subtomentosa
+- Sweet Black-Eyed Susan (Rudbeckia subtomentosa)
 - Black-Eyed Susan (Rudbeckia triloba 'Prairie Glow' - listed as "native cultivar")
 - Marsh Marigold (Caltha palustris)
 - Columbine (Aquilegia canadensis) - self-propagating

@@ -21,6 +21,7 @@
 - Blue-Stemmed Goldenrod (Solidago caesia) - goldenrods are host plant for more things than anything else in Chicago
 - Leatherleaf Woodfern (Dryopteris marginalis)
 - Fancy Fern (Dryopteris intermedia)
+- Tall Bellflower (Campanula americana)
 
 # Plants I Have (Non-native)
 - Hardy Hibiscus (Hibiscus moscheutos) - some fancy bright red cultivar
